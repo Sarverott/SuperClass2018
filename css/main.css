@@ -1,0 +1,23 @@
+.overflow-y{
+  overflow:scroll;
+  height:80vh;
+}
+body{
+  overflow:hidden;
+}
+.class-view-display-endpoint div{
+  background:#faa;
+  margin:5px;
+  text-align:center;
+}
+.class-view-display-box div{
+  background:#aff;
+  margin:5px;
+  text-align:center;
+}
+.unoverflow-x{
+  overflow-x:hidden;
+}
+.hide-me{
+  display:none;
+}

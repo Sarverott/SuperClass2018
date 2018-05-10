@@ -113,8 +113,8 @@ function writeDataInView(xcoord, ycoord){
   tmp_points.push(tmp.semester[xcoord][ycoord]);
   generateSection("obecność", tmp_names, tmp_num, tmp_points);
   tmp_names=[
-    dataBase.marks.average.name,
-    dataBase.marks.primes.name
+    'średnia klasowa',
+    'uczniowie 4.5+'
   ];
   tmp_num=[
     dataBase.marks.average.classes[xcoord][ycoord],

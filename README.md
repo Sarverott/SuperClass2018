@@ -1,2 +1,3 @@
-# SuperClass2018
-WebApp for class competition calculation
+# SuperClass-Calculator
+
+Programm to make easier calculation of superclass competition in Sl.TZN in Katowice
